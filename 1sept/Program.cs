@@ -1,4 +1,4 @@
-namespace _1sept
+namespace hw
 {
     internal static class Program
     {
